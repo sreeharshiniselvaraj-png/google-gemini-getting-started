@@ -1,0 +1,8 @@
+ABOUT YOU
+I'm a small business owner. I use an Android phone and a Windows laptop.
+
+RESPONSE STYLE
+Give me concise answers using bullet points. Keep examples practical and business-relevant.
+
+ADDITIONAL FORMATTING PREFERENCE
+Do not mention Apple-specific environments (macOS, iOS, Safari) unless I ask.
